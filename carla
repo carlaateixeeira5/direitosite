@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">      
+        <src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js">
+
+        <title>
+            HortiFruti Online
+        </title>
+            <link rel="stylesheet" href="estilo.css">
+    </head>
+        <body>
+            <h1>
+                HortiFruti Online
+            </h1>
+                <div style="text-align: center;">
+                    <img src="https://www.multibeneficiosgpa.com.br/wp-content/uploads/2020/05/1588193759_2474Maio051132x566pxV1b.jpg" class="img-fluid"  >
+                </div>
+            <div style="background-color: white; margin: auto ;width: 1500px; margin-left: 200px">
+            <h2>
+                O que sao Frutas?
+            </h2>
+                <pre>
+A fruta (ou fruto) é parte integrante de algumas plantas. É responsável por proteger e carregar as sementes e, por vezes, 
+pode ser utilizada como alimento.Apesar de ser um termo muitíssimo utilizado, a palavra “fruta”, na verdade, é uma designação 
+não oficial, que significa “fruto de sabor adocicado”. Em outras palavras, “fruta” não existe no vocabulário botânico.
+Popularmente, o que se entende por fruta é um alimento de origem vegetal, doce ou ligeiramente adocicado.
+                </pre>
+            <h3>
+                O que sao legumes?
+            </h3>
+                <pre>
+Os legumes se caracterizam por serem vegetais que podem ter seus frutos desenvolvidos tanto na parte exterior da terra 
+como abaixo da terra.Eles são compostos pelas raízes, tubérculos, frutos e caules, que possuem um tempo maior de duração 
+para o consumo.As partes comestíveis dos legumes são os frutos, as sementes ou as raízes, sendo que podem ser consumidas 
+de diversas formas: cruas, cozidas, fritas, no vapor, entre outras maneiras.Além disso, os legumes possuem categorias que
+dependendo da sua classificação, podem chegar até 20% de carboidratos.
+                </pre>
+            <h4>
+                O que sao verduras?
+            </h4>
+            <pre>
+As verduras são tipos de plantas em forma de folhas e flores que são comestíveis. Normalmente, as partes comestíveis das 
+verduras são as flores, botões, folhas, caules ou hastes. Elas também costumam ser chamadas de hortaliças, pois normalmente 
+são plantas cultivadas em hortas. Alface As verduras são reconhecidas por terem um baixo teor de carboidratos e de calorias. 
+E, por possuírem pouca durabilidade, é importante verificar a sua qualidade e cortá-las próximas à hora do consumo. Também 
+é aconselhável o consumo de verduras em estado cru para que elas não percam muitas das suas propriedades.
+            </pre>
+            <div style="text-align: center;">
+            <img src="https://www.supermercadonow.com/images/institutional/hortifruti-home-logo.png" class="rounded-circle">
+            </div>
+            <h5> 
+                Tabela de Preços:
+            </h5>
+        <div style="background-color: aliceblue;">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Frutas e legumes</th>
+                            <th>Preços</th>
+                        </tr>
+                    <tbody>
+                        <tr>
+                            <td>Banana</td>
+                            <td>R$9</td>
+                        </tr>
+                        <tr>
+                            <td>Maça</td>
+                            <td>R$5</td>
+                        </tr>
+                        <tr>
+                            <td>Laranja</td>
+                            <td>R$8</td>
+                        </tr>
+                        <tr>
+                            <td>Cenouras</td>
+                            <td>R$12</td>
+                        </tr>
+                        <tr>
+                            <td>Beterraba</td>
+                            <td>R$14</td>
+                        </tr>
+                        <tr>
+                            <td>Brocolis</td>
+                            <td>R$7</td>
+                        </tr>
+                        <tr>
+                            <td>Pera</td>
+                            <td>R$4</td>
+                        </tr>
+                        <tr>
+                            <td>Uva</td>
+                            <td>R$16</td>
+                        </tr>
+                        <tr>
+                            <td>Alface</td>
+                            <td>R$3</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <h6>
+                Integraçao com nosso app:
+            </h6>
+            <pre>
+Temos como principal objetivo integrar nosso site com nosso aplicativo movel para postar nossas novidades relacionadas ao 
+desenvolvimento do aplicativo como tambem deixar nossos clientes sempre atualizados sobre o trabalho que estamos desenvolvendo.
+caso queira conhecer nosso prototipo de aplicativo movel clique aqui: <a href="https://www.figma.com/file/sJsBb9IQ8Z92Iy18CL2xtN/HortFruit-Online?node-id=0%3A1">Prototipo Figma</a>
+            </pre>
+            <h6>
+                Quem nos Somos:
+            </h6>
+            <pre>
+Somo uma empresa com objetivo de unir venddores e compradores em um unico ambiente virtual, tendo como principal foco
+facilitar a interaçao entre eles, tanto tanto para o comprador para o vendedor. De tal forma que o comprador receba o 
+produto fresco na porta de sua casa.
+            </pre>
+        </div>
+</body>
